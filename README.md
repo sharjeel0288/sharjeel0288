@@ -27,16 +27,13 @@ I'm Sharjeel Ahmed, a final-year student at FAST-NUCES Karachi, pursuing experti
 - Information Retrieval
 - ... and more!
 
-## Projects
 
-- **Project 1**: [Link to Project 1]
-- **Project 2**: [Link to Project 2]
-- ...
+
 
 ## Connect with Me
 
 - LinkedIn: [Sharjeel Ahmed](https://www.linkedin.com/in/sharjeel-ahmed/)
-- Email: your.email@example.com
+- Email: sharjeelshakeelahmed@gmail.com 
 
 Feel free to explore my projects and connect with me for collaborations and discussions. Let's innovate together! 🚀
 
