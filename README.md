@@ -32,7 +32,7 @@ I'm Sharjeel Ahmed, a final-year student at FAST-NUCES Karachi, pursuing experti
 
 ## Connect with Me
 
-- LinkedIn: [Sharjeel Ahmed](https://www.linkedin.com/in/sharjeel-ahmed/)
+- LinkedIn: [Sharjeel Ahmed](https://www.linkedin.com/in/sharjeelahmed12/)
 - Email: sharjeelshakeelahmed@gmail.com 
 
 Feel free to explore my projects and connect with me for collaborations and discussions. Let's innovate together! 🚀
