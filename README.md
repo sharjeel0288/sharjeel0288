@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sharjeel Ahmed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h1 align="center">👋 Hi there, I'm Sharjeel Ahmed!</h1>
+<h3 align="center">Founder & CEO at Cognisoft Labs | Final Year CS Student at FAST-NUCES</h3>
+<p align="left">I have a proven track record of delivering high-quality solutions for various commercial projects through Cognisoft Labs. Notably, I spearheaded the development of Butterpply.ca, a dynamic marketplace for services, providing users with a seamless platform to connect with service providers. Additionally, I led the implementation of innovative inventory management solutions and CRM-ERP systems, streamlining operations and enhancing efficiency for businesses. These projects underscore my expertise in leveraging cutting-edge technologies to address complex business challenges and deliver tangible results.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeel0288&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel0288" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharjeel0288" alt="sharjeel0288" /></a> </p>
@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharjeel0288&show_icons=true&locale=en" alt="sharjeel0288" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel0288&" alt="sharjeel0288" /></p>
+
+<p align="center">🚀 Learn more about my ventures at <a href="http://www.cognisoftlabs.com">Cognisoft Labs</a>!</p>
