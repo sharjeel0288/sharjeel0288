@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi there, I'm Sharjeel Ahmed!</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sharjeel+Ahmed!;" />
+</h1>
 <h3 align="center">Founder & CEO at Cognisoft Labs | Final Year CS Student at FAST-NUCES</h3>
 <p align="left">I have a proven track record of delivering high-quality solutions for various commercial projects through Cognisoft Labs. Notably, I spearheaded the development of Butterpply.ca, a dynamic marketplace for services, providing users with a seamless platform to connect with service providers. Additionally, I led the implementation of innovative inventory management solutions and CRM-ERP systems, streamlining operations and enhancing efficiency for businesses. These projects underscore my expertise in leveraging cutting-edge technologies to address complex business challenges and deliver tangible results.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeel0288&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel0288" /> </p>
