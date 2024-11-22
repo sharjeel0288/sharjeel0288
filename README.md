@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div class="slider-container">
+        <div class="slider">
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
     </a> 
@@ -93,25 +94,46 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
     </a> 
-</div>
-<style>
-  .icon {
-    transition: transform 0.3s ease, opacity 0.3s ease;
-    display: inline-block;
-  }
-
-  .icon img {
-    transition: transform 0.3s ease;
-  }
-
-  .icon:hover img {
-    transform: scale(1.5);
-  }
-
-  .icon:hover ~ .icon img {
-    opacity: 0.3;
-  }
-</style>
+</div></div>
+  <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .slider-container {
+            overflow: hidden;
+            white-space: nowrap;
+            width: 100%;
+            background-color: #ffffff;
+            padding: 20px 0;
+        }
+        .slider {
+            display: inline-flex;
+            animation: slide 15s linear infinite;
+        }
+        .slider a {
+            display: inline-block;
+            margin: 0 15px;
+        }
+        .slider img {
+            width: 40px;
+            height: 40px;
+            transition: transform 0.3s ease;
+        }
+        .slider img:hover {
+            transform: scale(1.2);
+        }
+        @keyframes slide {
+            from {
+                transform: translateX(0);
+            }
+            to {
+                transform: translateX(-100%);
+            }
+        }
+    </style>
 <h3 align="left">More about me:</h3>
 <p> 
 I am passionate about applying machine learning, AI, and data science techniques to real-world problems, and I strive to create innovative solutions that add value to businesses and individuals. With a strong background in software engineering and quantitative research, I bring a deep understanding of technology to the table. In my spare time, I enjoy exploring new technologies and sharing knowledge with the community through blogs, open-source projects, and social media. Feel free to connect with me!
