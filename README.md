@@ -108,8 +108,8 @@ I am passionate about applying machine learning, AI, and data science techniques
     </a>
 </p>
 
-<p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel0288&theme=radical" alt="Sharjeel's Streak" />
+<p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sharjeel0288&theme=onedark-duo&mode=weekly" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
