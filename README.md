@@ -94,46 +94,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> 
     </a> 
-</div></div>
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-        }
-        .slider-container {
-            overflow: hidden;
-            white-space: nowrap;
-            width: 100%;
-            background-color: #ffffff;
-            padding: 20px 0;
-        }
-        .slider {
-            display: inline-flex;
-            animation: slide 15s linear infinite;
-        }
-        .slider a {
-            display: inline-block;
-            margin: 0 15px;
-        }
-        .slider img {
-            width: 40px;
-            height: 40px;
-            transition: transform 0.3s ease;
-        }
-        .slider img:hover {
-            transform: scale(1.2);
-        }
-        @keyframes slide {
-            from {
-                transform: translateX(0);
-            }
-            to {
-                transform: translateX(-100%);
-            }
-        }
-    </style>
+</div>
+</div>
+ 
 <h3 align="left">More about me:</h3>
 <p> 
 I am passionate about applying machine learning, AI, and data science techniques to real-world problems, and I strive to create innovative solutions that add value to businesses and individuals. With a strong background in software engineering and quantitative research, I bring a deep understanding of technology to the table. In my spare time, I enjoy exploring new technologies and sharing knowledge with the community through blogs, open-source projects, and social media. Feel free to connect with me!
@@ -146,9 +109,7 @@ I am passionate about applying machine learning, AI, and data science techniques
 </p>
 
 <p align="center">
-    <a href="https://github.com/sharjeel0288">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel0288&theme=radical" alt="Sharjeel's Streak" />
-    </a>
 </p>
 
 <p align="center">
