@@ -96,7 +96,32 @@
     </a> 
 </div>
 </div>
- 
+<h2>🏆 Certifications & Achievements</h2>
+
+<h3>🎓 <strong>Certifications</strong></h3>
+<ul>
+    <li><strong>Microsoft FastTrack for AI & Cloud</strong> <em>(Issued: Jul 2024)</em></li>
+    <li>
+        <strong>Machine Learning and Deep Learning Bootcamp in Python – Udemy</strong><br>
+        <em>Credential ID:</em> 
+        <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-f04e4fa4-49aa-4fce-a2cd-c8cc64220fd5.pdf" target="_blank">
+            UC-f04e4fa4-49aa-4fce-a2cd-c8cc64220fd5
+        </a>
+    </li>
+</ul>
+
+<h3>🏅 <strong>Honors & Awards</strong></h3>
+<ul>
+    <li>
+        <strong>🏆 Procom StartUp ShowDown Winner (Mar 2024)</strong> – 
+        Awarded for presenting an <strong>AI-driven denim industry QA automation</strong> MVP.
+    </li>
+    <li>
+        <strong>🏆 Incubated in SSKIC (Jan 2024)</strong> – 
+        Competing against <strong>top Pakistani startups</strong> in AI innovation.
+    </li>
+</ul>
+
 <h3 align="left">More about me:</h3>
 <p> 
 I am passionate about applying machine learning, AI, and data science techniques to real-world problems, and I strive to create innovative solutions that add value to businesses and individuals. With a strong background in software engineering and quantitative research, I bring a deep understanding of technology to the table. In my spare time, I enjoy exploring new technologies and sharing knowledge with the community through blogs, open-source projects, and social media. Feel free to connect with me!
