@@ -155,11 +155,7 @@ I am passionate about applying machine learning, AI, and data science techniques
 
 
 
-<p align="center">
-    <a href="https://github.com/sharjeel0288/simple-sqlite/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=sharjeel0288/simple-sqlite" />
-    </a>
-</p>
+
 
 
 <p align="center">
