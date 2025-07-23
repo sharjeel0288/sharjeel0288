@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sharjeel+Ahmed!;" />
 </h1>
-<h3 align="center">Founder & CEO at Cognisoft Labs | AI Solution Engineer at Imperium Dynamics | FAST NUCES 2024</h3>
+<h3 align="center">AI Engineer at Imperium Dynamics | FAST NUCES 2024</h3>
 <p align="left">I am Sharjeel Ahmed, Founder & CEO at Cognisoft Labs and serving as an AI Solution Engineer at Imperium Dynamics. I have a proven track record of delivering high-quality solutions for various commercial projects through Cognisoft Labs. Notably, I spearheaded the development of Butterpply.ca, a dynamic marketplace for services, providing users with a seamless platform to connect with service providers. Additionally, I led the implementation of innovative inventory management solutions and CRM-ERP systems, streamlining operations and enhancing efficiency for businesses. These projects underscore my expertise in leveraging cutting-edge technologies to address complex business challenges and deliver tangible results.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharjeel0288&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel0288" /> </p>
 
@@ -141,9 +141,91 @@ I am passionate about applying machine learning, AI, and data science techniques
 </p>
 
 <p align="center">
- <a href="https://github.com/sharjeel0288"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel0288&theme=dark" alt="GitHub Streak" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharjeel0288&theme=tokyonight" alt="mystreak"/>
 </p>
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharjeel0288&theme=radical" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel0288&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
+
+<p align="center">
+    <img src="https://metrics.lecoq.io/sharjeel0288?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" alt="Metrics" />
+</p>
+
+<p align="center">
+    <a href="https://github.com/sharjeel0288/simple-sqlite/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=sharjeel0288/simple-sqlite" />
+    </a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsharjeel0288&longCache=true" alt="GitHub" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/followers/sharjeel0288?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="followers" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/followers/sharjeel0288?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/github/stars/sharjeel0288?label=Stars" alt="stars" />
+</p>
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=sharjeel0288&theme=react-dark&hide_border=true&area=true" alt="Contribution" />
+</p>
+
+<p align="center">
+    <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</p>
+
+<p align="center">
+    <a href="https://leetcode-stats-six.vercel.app/api?username=sharjeel0288"><img src="https://leetcode-stats-six.vercel.app/api?username=sharjeel0288" alt="Sharjeel's LeetCode stats" /></a>
+</p>
+
+<p align="center">
+    <a href="https://www.codewars.com/users/sharjeel0288"><img src="https://www.codewars.com/users/sharjeel0288/badges/large" alt="Codewars Badge" /></a>
+</p>
+
+<p align="center">
+    <a href="https://stackoverflow.com/users/sharjeel0288"><img src="https://github-readme-stackoverflow.vercel.app/?userID=sharjeel0288" alt="Sharjeel StackOverflow" /></a>
+</p>
+
+<p align="center">
+    <a href="https://medium.com/@sharjeel0288"><img src="https://github-readme-medium.vercel.app/?username=sharjeel0288" alt="Sharjeel Medium" /></a>
+</p>
+
+<p align="center">
+    <table>
+        <thead align="center">
+            <tr border: none;>
+                <td><b>📘 Project</b></td>
+                <td><b>⭐ Stars</b></td>
+                <td><b>🤝 Forks</b></td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td><a href="https://github.com/sharjeel0288/differ"><b>Differ</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sharjeel0288/differ?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sharjeel0288/differ?style=flat-square&labelColor=343b41"/></td>
+            </tr>
+            <tr>
+                <td><a href="https://github.com/sharjeel0288/simple-sqlite"><b>Simple SQLite</b></a></td>
+                <td><img alt="Stars" src="https://img.shields.io/github/stars/sharjeel0288/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+                <td><img alt="Forks" src="https://img.shields.io/github/forks/sharjeel0288/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
+            </tr>
+        </tbody>
+    </table>
+</p>
+
+<p align="center">
+    <img src="https://myreadme.vercel.app/api/embed/sharjeel0288?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </p>
