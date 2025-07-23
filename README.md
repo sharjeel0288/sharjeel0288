@@ -152,9 +152,6 @@ I am passionate about applying machine learning, AI, and data science techniques
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharjeel0288&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
 
-<p align="center">
-    <img src="https://metrics.lecoq.io/sharjeel0288?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" alt="Metrics" />
-</p>
 
 <p align="center">
     <a href="https://github.com/sharjeel0288/simple-sqlite/graphs/contributors">
@@ -178,29 +175,12 @@ I am passionate about applying machine learning, AI, and data science techniques
     <img src="https://img.shields.io/github/stars/sharjeel0288?label=Stars" alt="stars" />
 </p>
 
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=sharjeel0288&theme=react-dark&hide_border=true&area=true" alt="Contribution" />
-</p>
 
 <p align="center">
     <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </p>
 
-<p align="center">
-    <a href="https://leetcode-stats-six.vercel.app/api?username=sharjeel0288"><img src="https://leetcode-stats-six.vercel.app/api?username=sharjeel0288" alt="Sharjeel's LeetCode stats" /></a>
-</p>
 
-<p align="center">
-    <a href="https://www.codewars.com/users/sharjeel0288"><img src="https://www.codewars.com/users/sharjeel0288/badges/large" alt="Codewars Badge" /></a>
-</p>
-
-<p align="center">
-    <a href="https://stackoverflow.com/users/sharjeel0288"><img src="https://github-readme-stackoverflow.vercel.app/?userID=sharjeel0288" alt="Sharjeel StackOverflow" /></a>
-</p>
-
-<p align="center">
-    <a href="https://medium.com/@sharjeel0288"><img src="https://github-readme-medium.vercel.app/?username=sharjeel0288" alt="Sharjeel Medium" /></a>
-</p>
 
 <p align="center">
     <table>
