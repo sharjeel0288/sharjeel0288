@@ -159,9 +159,6 @@ I am passionate about applying machine learning, AI, and data science techniques
     </a>
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsharjeel0288&longCache=true" alt="GitHub" />
-</p>
 
 <p align="center">
     <img src="https://img.shields.io/github/followers/sharjeel0288?color=236ad3&style=for-the-badge&logo=github&label=Follow" alt="followers" />
@@ -206,6 +203,3 @@ I am passionate about applying machine learning, AI, and data science techniques
     </table>
 </p>
 
-<p align="center">
-    <img src="https://myreadme.vercel.app/api/embed/sharjeel0288?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-</p>
