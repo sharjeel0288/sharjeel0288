@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://portfolio-zeta-liard-78.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://portfolio-zeta-liard-78.vercel.app/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/8698/8698887.png" alt="portfolio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharjeelahmed12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharjeelahmed12" height="30" width="40" /></a>
 <a href="https://fb.com/sharjeel.ahmed123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sharjeel.ahmed123" height="30" width="40" /></a>
 <a href="https://instagram.com/i.sharjeeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.sharjeeel" height="30" width="40" /></a>
