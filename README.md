@@ -153,9 +153,7 @@ I am passionate about applying machine learning, AI, and data science techniques
 </p>
 
 
-<p align="center">
-    <img src="https://metrics.lecoq.io/sharjeel0288?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto" alt="Metrics" />
-</p>
+
 
 <p align="center">
     <a href="https://github.com/sharjeel0288/simple-sqlite/graphs/contributors">
