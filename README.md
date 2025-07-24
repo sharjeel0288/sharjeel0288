@@ -134,27 +134,3 @@ I am passionate about applying machine learning, AI, and data science techniques
     <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
 
-## Projects
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th>📘 Project</th>
-                <th>⭐ Stars</th>
-                <th>🤝 Forks</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td><a href="https://github.com/sharjeel0288/differ"><b>Differ</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sharjeel0288/differ?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sharjeel0288/differ?style=flat-square&labelColor=343b41"/></td>
-            </tr>
-            <tr>
-                <td><a href="https://github.com/sharjeel0288/simple-sqlite"><b>Simple SQLite</b></a></td>
-                <td><img alt="Stars" src="https://img.shields.io/github/stars/sharjeel0288/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-                <td><img alt="Forks" src="https://img.shields.io/github/forks/sharjeel0288/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
-            </tr>
-        </tbody>
-    </table>
-</div>
