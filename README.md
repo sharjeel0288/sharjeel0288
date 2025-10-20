@@ -157,7 +157,7 @@ I am passionate about applying machine learning, AI, and data science techniques
 - **Microsoft FastTrack for Azure AI** *(Issued: 2024)*
 
 ### 🏅 Honors & Awards
-- **🏆 1st Place - Startup Showdown (Feb 2024)** – Led Jeanius Digital team to victory at FAST NUCES Startup Showdown, securing $1000 grant.
+- **🏆 1st Place - Startup Showdown (Feb 2024)** – Led Jeanius Digital team to victory at FAST NUCES Startup Showdown, securing 150,000 PKR grant.
 - **🏆 SSKIC Incubation Program (Feb 2024)** – Selected for Sir Syed Knowledge Incubation Center program among 50+ competing startups for AI innovation.
 - **Dean’s List Recognition (2020-2024)** – Achieved academic excellence in 4 semesters (1st, 3rd, 4th, 6th) for scoring 3.5+ GPA.
 
