@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sharjeel+Ahmed!;" />
 </h1>
 
-<h3 align="center">AI Engineer at Imperium Dynamics | FAST NUCES 2024</h3>
+<h3 align="center">AI Solutions Engineer at Imperium Dynamics | FAST NUCES 2024</h3>
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=sharjeel0288&label=Profile%20views&color=0e75b6&style=flat" alt="sharjeel0288" />
@@ -11,7 +11,9 @@
 </div>
 
 ## About Me
-I am Sharjeel Ahmed, Founder & CEO at Cognisoft Labs and serving as an AI Solution Engineer at Imperium Dynamics. I have a proven track record of delivering high-quality solutions for various commercial projects through Cognisoft Labs. Notably, I spearheaded the development of [Butterpply.ca](https://butterpply.ca), a dynamic marketplace for services, providing users with a seamless platform to connect with service providers. Additionally, I led the implementation of innovative inventory management solutions and CRM-ERP systems, streamlining operations and enhancing efficiency for businesses. These projects underscore my expertise in leveraging cutting-edge technologies to address complex business challenges and deliver tangible results.
+I am Sharjeel Ahmed, an AI Solutions Engineer at Imperium Dynamics with over 2 years of experience in developing scalable AI/ML solutions, full-stack applications, and robust data engineering pipelines. I possess deep expertise in AI model deployment, natural language processing, computer vision, and real-time systems, with strong proficiency in Python, OpenAI tools, LangChain, and cloud technologies. I have demonstrated ability to lead engineering teams and have successfully delivered over 8 commercial projects on time, consistently achieving more than 25% efficiency improvements through automation. I am adept at translating complex technical concepts into tangible business value, with a strong track record in fast-paced startup environments and international client engagements.
+
+Previously, as Founder & CEO at Cognisoft Labs, I directed a 6-engineer team delivering 5+ AI/ML and software projects for international clients, achieving 100% on-time delivery and 15% year-over-year revenue growth. Notably, I spearheaded the development of projects like Bento AI Recipe Generator (Swedish Startup), FourSeason Inspection Platform (UAE), Currency Smart Vision (Pakistan), and Federated Learning Churn Prediction (Research Project). These projects underscore my expertise in leveraging cutting-edge technologies to address complex business challenges and deliver tangible results.
 
 I am passionate about applying machine learning, AI, and data science techniques to real-world problems, striving to create innovative solutions that add value to businesses and individuals. With a strong background in software engineering and quantitative research, I bring a deep understanding of technology to the table. In my spare time, I enjoy exploring new technologies and sharing knowledge with the community through blogs, open-source projects, and social media.
 
@@ -106,17 +108,58 @@ I am passionate about applying machine learning, AI, and data science techniques
     <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
         <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI" width="40" height="40"/>
     </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    </a>
+    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+    </a>
+    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikitlearn" width="40" height="40"/>
+    </a>
+    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+        <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="40" height="40"/>
+    </a>
 </div>
 
 ## Certifications & Achievements
 ### 🎓 Certifications
-- **Microsoft FastTrack for AI & Cloud** *(Issued: Jul 2024)*
-- **Machine Learning and Deep Learning Bootcamp in Python – Udemy**  
-  *Credential ID:* [UC-f04e4fa4-49aa-4fce-a2cd-c8cc64220fd5](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f04e4fa4-49aa-4fce-a2cd-c8cc64220fd5.pdf)
+- **Microsoft Certified: Azure AI Engineer Associate (AI-102)** *(Issued: 2025)*
+- **LLM Engineering: Master AI, Large Language Models & Agents – Udemy** *(Issued: 2025)*
+- **Machine Learning and Deep Learning Bootcamp – Udemy** *(Issued: 2024)*
+- **Microsoft FastTrack for Azure AI** *(Issued: 2024)*
 
 ### 🏅 Honors & Awards
-- **🏆 Procom StartUp ShowDown Winner (Mar 2024)** – Awarded for presenting an **AI-driven denim industry QA automation** MVP.
-- **🏆 Incubated in SSKIC (Jan 2024)** – Competing against **top Pakistani startups** in AI innovation.
+- **🏆 1st Place - Startup Showdown (Feb 2024)** – Led Jeanius Digital team to victory at FAST NUCES Startup Showdown, securing $1000 grant.
+- **🏆 SSKIC Incubation Program (Feb 2024)** – Selected for Sir Syed Knowledge Incubation Center program among 50+ competing startups for AI innovation.
+- **Dean’s List Recognition (2020-2024)** – Achieved academic excellence in 4 semesters (1st, 3rd, 4th, 6th) for scoring 3.5+ GPA.
 
 ## GitHub Stats
 <div align="center">
@@ -133,4 +176,3 @@ I am passionate about applying machine learning, AI, and data science techniques
     <img src="https://img.shields.io/github/stars/sharjeel0288?label=Stars" alt="stars" />
     <a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 </div>
-
